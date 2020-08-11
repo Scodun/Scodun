@@ -6,10 +6,10 @@
 ### <div align="center">I'm Raphael a full-stack developer and University Student 👋</div>  
   
 
-- 🔭 I’m currently working on [Economy and Administrative Discord Bot](https://github.com/xCrashsystemx/Otaku-Treffpunkt-Re)  
+- 🔭 I’m currently working on [Cook Book](https://github.com/Scodun/Cook-Book) and [Economy and Administrative Discord Bot](https://github.com/xCrashsystemx/Otaku-Treffpunkt-Re)  
   
 
-- 🌱 I’m currently learning Vue.js and mongo DB  
+- 🌱 I’m currently learning React.js and Prostgresql
   
 
 - ⚡ Fun fact: I use tabs over spaces  
