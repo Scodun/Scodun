@@ -85,9 +85,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Scodun&show_icons=true&count_private=true" align="center" /></div>  
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=scodun)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Scodun&show_icons=true&count_private=true" align="center" /></div>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Scodun&&style=flat-square" align="center" />
