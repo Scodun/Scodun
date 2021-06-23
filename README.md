@@ -6,10 +6,6 @@
 ### <div align="center">I'm Raphael a full-stack developer and University Student 👋</div>  
   
 
-- 🔭 I’m currently working on [Cook Book](https://github.com/Scodun/Cook-Book) and [Economy and Administrative Discord Bot](https://github.com/xCrashsystemx/Otaku-Treffpunkt-Re)  
-  
-  
-
 <br/>  
 
 
@@ -29,16 +25,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-[![trophy](https://github-profile-trophy.vercel.app/?username=scodun)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Scodun&show_icons=true&count_private=true" align="center" /></div>  
-<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Scodun&&style=flat-square" align="center" />
