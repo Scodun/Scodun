@@ -9,7 +9,6 @@
 <br/>  
 
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Scodun" target="_blank">
@@ -29,3 +28,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Scodun&&style=flat-square" align="center" />
 </div>  
+<br/>
+
+[![@scodun's Holopin board](https://holopin.me/scodun)](https://holopin.io/@scodun)
